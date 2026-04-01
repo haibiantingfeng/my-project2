@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+
+# Dependencies
+*.egg-info/
+dist/
+build/
+
+# Data
+*.csv
+*.xlsx
+*.json
+
+# TensorFlow
+*.h5
+*.pb
+
+# OS
+.DS_Store
+Thumbs.db
